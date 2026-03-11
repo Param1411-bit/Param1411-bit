@@ -10,12 +10,25 @@
 
 ---
 
+# Param1411
+
+<h1 align="center">Hi 👋, I'm Param Bhatkar</h1>
+<h3 align="center">Data Analyst | AI Automation Engineer | Python & SQL</h3>
+
+<p align="center">
+  <a href="https://parambhatkar.online"><b>🌐 Portfolio</b></a> •
+  <a href="https://github.com/Param1411"><b>GitHub</b></a> •
+  <a href="https://www.linkedin.com/in/param-bhatkar-171061250/"><b>LinkedIn</b></a>
+</p>
+
+---
+
 ### 🚀 About Me
 
 * 📊 Data Analyst passionate about **data-driven decision making**
 * 🤖 Building **AI & Automation systems**
 * 🧠 Interested in **Machine Learning & Data Science**
-* 💡 Skilled in **Python, SQL, Power BI, and automation workflows**
+* 💡 Skilled in **Python, SQL, Streamlit, and automation workflows**
 * 🌐 Portfolio: **https://parambhatkar.online**
 
 ---
@@ -29,9 +42,9 @@
 
 **Data & Analytics**
 
-* Power BI
 * Data Visualization
 * Business Analytics
+* Data Analysis
 
 **AI & Machine Learning**
 
@@ -39,10 +52,11 @@
 * Predictive Analytics
 * Data Science
 
-**Automation**
+**Tools & Frameworks**
 
+* Streamlit
+* Git & GitHub
 * Workflow Automation
-* AI Automation Systems
 * Make (Automation Platform)
 
 ---
@@ -58,6 +72,8 @@ Developed a machine learning model to detect and predict electrical faults in re
 🔹 **Interactive Data Analytics Dashboard (Streamlit)**
 Developed an interactive data analytics dashboard using Python and Streamlit to visualize datasets, generate insights, and enable dynamic data exploration through user-driven inputs and visualizations.
 
+🚀 **Live Demo:**
+https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 
 ---
 
@@ -80,5 +96,7 @@ Developed an interactive data analytics dashboard using Python and Streamlit to 
 * 🐙 GitHub: https://github.com/Param1411
 
 ---
+
+⭐ *If you like my work, feel free to check out my projects and connect with me!*
 
 ⭐ *If you like my work, feel free to check out my projects and connect with me!*
