@@ -71,11 +71,10 @@ Created an interactive Streamlit dashboard to visualize datasets, generate insig
 https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Param1411-bit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Param1411-bit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -83,8 +82,9 @@ https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Param1411-bit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param1411-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 
 
 ---
