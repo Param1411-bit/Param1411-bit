@@ -75,15 +75,15 @@ https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Param1411&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Param1411-bit&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Param1411&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Param1411-bit&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param1411&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param1411-bit&layout=compact&theme=tokyonight" />
 </p>
 
 ---
