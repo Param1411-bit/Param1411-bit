@@ -1,95 +1,103 @@
-# Param1411
-<h1 align="center">Hi 👋, I'm Param Bhatkar</h1>
+# Hi 👋, I'm Param Bhatkar
+
 <h3 align="center">Data Analyst | AI Automation Engineer | Python & SQL</h3>
 
 <p align="center">
-  <a href="https://parambhatkar.online"><b>🌐 Portfolio</b></a> •
-  <a href="https://github.com/Param1411"><b>GitHub</b></a> •
-  <a href="https://www.linkedin.com/in/param-bhatkar-171061250/"><b>LinkedIn</b></a>
+  <a href="https://parambhatkar.online"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://github.com/Param1411"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/param-bhatkar-171061250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-# Param1411
-
-<h1 align="center">Hi 👋, I'm Param Bhatkar</h1>
-<h3 align="center">Data Analyst | AI Automation Engineer | Python & SQL</h3>
-
-<p align="center">
-  <a href="https://parambhatkar.online"><b>🌐 Portfolio</b></a> •
-  <a href="https://github.com/Param1411"><b>GitHub</b></a> •
-  <a href="https://www.linkedin.com/in/param-bhatkar-171061250/"><b>LinkedIn</b></a>
-</p>
-
----
-
-### 🚀 About Me
+## 🚀 About Me
 
 * 📊 Data Analyst passionate about **data-driven decision making**
-* 🤖 Building **AI & Automation systems**
-* 🧠 Interested in **Machine Learning & Data Science**
-* 💡 Skilled in **Python, SQL, Streamlit, and automation workflows**
+* 🤖 Building **AI Automation & Workflow Systems**
+* 🧠 Exploring **Machine Learning & Data Science**
+* 💡 Skilled in **Python, SQL, Streamlit, Automation Tools**
 * 🌐 Portfolio: **https://parambhatkar.online**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
+### 👨‍💻 Languages
 
 * Python
 * SQL
 
-**Data & Analytics**
+### 📊 Data & Analytics
 
+* Data Analysis
 * Data Visualization
 * Business Analytics
-* Data Analysis
+* Exploratory Data Analysis
 
-**AI & Machine Learning**
+### 🤖 AI & Machine Learning
 
 * Machine Learning
 * Predictive Analytics
 * Data Science
+* Model Evaluation
 
-**Tools & Frameworks**
+### ⚙️ Tools & Frameworks
 
 * Streamlit
 * Git & GitHub
 * Workflow Automation
 * Make (Automation Platform)
+* Excel / CSV Data Handling
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-🔹 **Telegram-Based Market News & Insights Bot**
-Developed a Telegram bot to deliver structured market news and financial insights to users in real time. The bot aggregates relevant updates and presents them in a simplified, easy-to-read format for quick decision support.
+### 🔹 Telegram-Based Market News & Insights Bot
 
-🔹 **Electric Fault Detection using AI**
-Developed a machine learning model to detect and predict electrical faults in real time, helping improve system reliability and enabling predictive maintenance.
+Developed a Telegram bot that delivers structured market news and financial insights in real time.
+Helps users quickly understand market trends and make informed decisions.
 
-🔹 **Interactive Data Analytics Dashboard (Streamlit)**
-Developed an interactive data analytics dashboard using Python and Streamlit to visualize datasets, generate insights, and enable dynamic data exploration through user-driven inputs and visualizations.
+### 🔹 Electric Fault Detection using AI
+
+Built a machine learning model to detect and predict electrical faults in real time.
+Improves system reliability and supports predictive maintenance.
+
+### 🔹 Interactive Data Analytics Dashboard
+
+Created an interactive Streamlit dashboard to visualize datasets, generate insights, and enable dynamic filtering.
 
 🚀 **Live Demo:**
 https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Param1411&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Param1411&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Param1411&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Param1411&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param1411&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🎯 Current Focus
+
+* 📊 Advanced Data Analytics Projects
+* 🤖 AI Automation Systems
+* 📈 Real-world Business Dashboards
+* 🧠 Machine Learning Applications
+
+---
+
+## 📫 Connect With Me
 
 * 🌐 Portfolio: https://parambhatkar.online
 * 💼 LinkedIn: https://www.linkedin.com/in/param-bhatkar-171061250/
@@ -97,6 +105,5 @@ https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 
 ---
 
-⭐ *If you like my work, feel free to check out my projects and connect with me!*
-
-⭐ *If you like my work, feel free to check out my projects and connect with me!*
+⭐ If you like my work, consider giving a star to my repositories!
+⭐ Open to collaborations on Data Analytics & AI Automation projects
