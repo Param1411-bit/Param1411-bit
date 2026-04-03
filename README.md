@@ -71,19 +71,12 @@ Created an interactive Streamlit dashboard to visualize datasets, generate insig
 https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Param1411-bit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Param1411-bit&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Param1411-bit&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param1411-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
 
 
 
