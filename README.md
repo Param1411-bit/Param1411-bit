@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://parambhatkar.online"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://github.com/Param1411"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Param1411-bit"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/param-bhatkar-171061250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
@@ -75,16 +75,17 @@ https://param1411-bit-pythonproject-app-rroaaa.streamlit.app/
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Param1411-bit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Param1411-bit&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Param1411-bit&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Param1411-bit&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param1411-bit&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Param1411-bit&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
